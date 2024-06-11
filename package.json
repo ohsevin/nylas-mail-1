@@ -35,11 +35,11 @@
     "lerna": "emorikawa/lerna#v2.0.0-beta.38.forked",
     "load-grunt-parent-tasks": "0.1.1",
     "mkdirp": "^0.5.1",
-    "pm2": "2.4.0",
+    "pm2": "2.10.4",
     "request": "2.x.x",
     "s3": "4.x.x",
     "temp": "0.8.x",
-    "underscore": "1.8.x"
+    "underscore": "1.12.x"
   },
   "scripts": {
     "start": "npm run client",
